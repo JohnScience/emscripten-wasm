@@ -1,6 +1,6 @@
 # Examples of C programs compilable with Emscripten
 
-This repository was created in the process of editing the chapter 1 "Exploring the Possibilities with WebAssembly".
+This repository was created in the process of editing the chapter 1 "Exploring the Possibilities with WebAssembly" for BPB Publications.
 
 ## See
 
